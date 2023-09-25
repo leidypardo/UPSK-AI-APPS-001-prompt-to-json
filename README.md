@@ -97,7 +97,6 @@ npm  install  -g  flowise
 
 npx  flowise  start
 ```
-
 ## 7. Valida tu solución
 
 Necesitarás definir una variable de ambiente con el nombre `OPENAI_API_KEY` y
