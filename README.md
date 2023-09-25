@@ -92,12 +92,19 @@ herramienta.
 
 Seguir las indicaciones para instalar globalmente [flowise](https://github.com/FlowiseAI/Flowise)
 
-```bash
-npm  install  -g  flowise
 
+
+```bash
+npm  install  -g  flowise 
 npx  flowise  start
 ```
+npm
+
+
 ## 7. Valida tu solución
+
+
+
 
 Necesitarás definir una variable de ambiente con el nombre `OPENAI_API_KEY` y
 darle el valor de api key de OpenAI que utilizarás
