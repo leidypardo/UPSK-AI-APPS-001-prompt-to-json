@@ -98,6 +98,7 @@ Seguir las indicaciones para instalar globalmente [flowise](https://github.com/F
 npm  install  -g  flowise 
 npx  flowise  start
 ```
+npm
 
 ## 7. Valida tu solución
 
