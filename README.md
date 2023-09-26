@@ -11,10 +11,11 @@
 - [7. Valida tu solución](#7-valida-tu-solución)
 - [8. Recursos](#8-recursos)
 
+
+
 ---
 
 ## 1. Consideraciones generales
-
 - Este proyecto lo resolvemos de manera **individual**.
 - El rango de tiempo estimado para completar el proyecto es de 1 a 2 Sprints.
 
